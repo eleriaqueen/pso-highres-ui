@@ -3,6 +3,8 @@
 # PSO High Res UI Resource Pack
 High resolution Resource Pack for Phantasy Star Online Ep. I & II (& Plus) gamecube games (when run in Dolphin-Emu) that tries to emulate the feel of the original UI.
 
+[![GPOP8-P-21.png](https://i.postimg.cc/fWHVM0sp/GPOP8-P-21.png)](https://postimg.cc/5jC43y6S)
+
 ## Production Logos
 Sonic Team logo was taken from Logopedia -> logos.fandom.com
 SEGA, Sofdec, ADX logos were taken from SegaRetro -> segaretro.org
