@@ -11,10 +11,10 @@ High resolution Resource Pack for Phantasy Star Online Ep. I & II (& Plus) gamec
 [![GPOP8-P-22.png](https://i.postimg.cc/tCkdFghH/GPOP8-P-22.png)](https://postimg.cc/QHBW3h46)
 
 ## Production Logos
-Sonic Team logo was taken from [Logopedia](logos.fandom.com)
-SEGA, Sofdec, ADX logos were taken from segaretro.org [SegaRetro](segaretro.org)
+Sonic Team logo was taken from [Logopedia](https://www.logos.fandom.com)
+SEGA, Sofdec, ADX logos were taken from segaretro.org [SegaRetro](https://www.segaretro.org)
 
 They have been adjusted and re-coloured where needed to fit this project.
 
 ## Support me
-[Eleriaqueen's Paypal](paypal.me/eleriaqueen)
+[Eleriaqueen's Paypal](https://www.paypal.me/eleriaqueen)
