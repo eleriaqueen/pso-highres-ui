@@ -16,5 +16,5 @@ SEGA, Sofdec, ADX logos were taken from segaretro.org [SegaRetro](https://www.se
 
 They have been adjusted and re-coloured where needed to fit this project.
 
-## Support me
-[Eleriaqueen's Paypal](https://www.paypal.me/eleriaqueen)
+## Buy me a coffee
+[Eleriaqueen's Ko-Fi Page](https://ko-fi.com/eleriaqueen)
