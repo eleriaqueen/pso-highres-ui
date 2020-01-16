@@ -9,6 +9,7 @@ High resolution Resource Pack for Phantasy Star Online Ep. I & II (& Plus) gamec
 
 ## Production Logos
 Sonic Team logo was taken from [Logopedia](https://www.logos.fandom.com)
+
 SEGA, Sofdec, ADX logos were taken from segaretro.org [SegaRetro](https://www.segaretro.org)
 
 They have been adjusted and re-coloured where needed to fit this project.
