@@ -6,6 +6,7 @@
 High resolution UI Resource Pack for Phantasy Star Online Ep. I&II (& Plus). Does not work on real hardware.
 
 [Download Latest Version](https://github.com/eleriaqueen/pso-highres-ui-resource-pack/releases)
+(Get the one tagged 'compat' if you have an older graphics card)
 
 [![GPOP8-P-2020-06-10-14-33-08.png](https://i.postimg.cc/zDdCZzJX/GPOP8-P-2020-06-10-14-33-08.png)](https://postimg.cc/MXQM18Mh)
 
