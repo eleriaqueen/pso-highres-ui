@@ -3,7 +3,7 @@
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T416DT1)
 
 # PSO High Res UI Resource Pack
-High resolution Resource Pack for Phantasy Star Online Ep. I & II (& Plus) gamecube games (when run in Dolphin-Emu) that tries to emulate the feel of the original UI.
+High resolution UI Resource Pack for Phantasy Star Online Ep. I&II (& Plus). Does not work on real hardware.
 
 [![GPOP8-P-2020-01-16-15-57-29.jpg](https://i.postimg.cc/vHzfRMJk/GPOP8-P-2020-01-16-15-57-29.jpg)](https://postimg.cc/ppmpzNXJ)
 
