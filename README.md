@@ -8,7 +8,7 @@ High resolution UI Resource Pack for Phantasy Star Online Ep. I&II (& Plus). Doe
 [Download Latest Version](https://github.com/eleriaqueen/pso-highres-ui-resource-pack/releases)
 (Get the one tagged 'compat' if you have an older graphics card)
 
-[![GPOP8-P-2020-06-10-14-33-08.png](https://i.postimg.cc/zDdCZzJX/GPOP8-P-2020-06-10-14-33-08.png)](https://postimg.cc/MXQM18Mh)
+[![GPOP8-P-2020-06-12-15-52-24.png](https://i.postimg.cc/ncRqZtzs/GPOP8-P-2020-06-12-15-52-24.png)](https://postimg.cc/w7N1cZDH)
 
 ## Production Logos
 Sonic Team logo was taken from [Logopedia](https://www.logos.fandom.com)
