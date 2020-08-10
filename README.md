@@ -3,7 +3,7 @@
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T416DT1)
 
 # PSO High Res UI Resource Pack
-High resolution UI Resource Pack for Phantasy Star Online Ep. I&II (& Plus). Does not work on real hardware.
+Fan-made High resolution UI Resource Pack for Phantasy Star Online Ep. I&II (& Plus). Does not work on real hardware.
 
 [Download Latest Version](https://github.com/eleriaqueen/pso-highres-ui-resource-pack/releases)
 (Get the one tagged 'compat' if you have an older graphics card)
@@ -16,3 +16,7 @@ Sonic Team logo was taken from [Logopedia](https://www.logos.fandom.com)
 SEGA, Sofdec, ADX logos were taken from segaretro.org [SegaRetro](https://www.segaretro.org)
 
 They have been adjusted and re-coloured where needed to fit this project.
+
+# Legal
+Phantasy Star Online is a registered trademark of SEGA in the United States and other countries.
+This project is not endorsed, sponsored, nor authorized by SEGA.
