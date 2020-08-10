@@ -17,6 +17,6 @@ SEGA, Sofdec, ADX logos were taken from segaretro.org [SegaRetro](https://www.se
 
 They have been adjusted and re-coloured where needed to fit this project.
 
-# Legal
+## Legal
 Phantasy Star Online is a registered trademark of SEGA in the United States and other countries.
 This project is not endorsed, sponsored, nor authorized by SEGA.
