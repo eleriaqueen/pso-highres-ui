@@ -3,10 +3,13 @@
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T416DT1)
 
 # PSO High Res UI Resource Pack
-Fan-made High resolution UI Resource Pack for Phantasy Star Online Ep. I&II (& Plus). Does not work on real hardware.
+Fan-made High resolution UI for Phantasy Star Online Ep. I&II (& Plus).
+
+Available for downlad as a _Resource Pack_ compatible with Dolphin emulator.
+
+__Does not work on real hardware__
 
 [Download Latest Version](https://github.com/eleriaqueen/pso-highres-ui-resource-pack/releases)
-(Get the one tagged 'compat' if you have an older graphics card)
 
 [![GPOP8-P-2020-06-12-15-52-24.png](https://i.postimg.cc/ncRqZtzs/GPOP8-P-2020-06-12-15-52-24.png)](https://postimg.cc/w7N1cZDH)
 
