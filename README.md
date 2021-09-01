@@ -7,8 +7,6 @@ Available for downlad as a _Resource Pack_ compatible with Dolphin emulator.
 
 __Does not work on real hardware__
 
-[Download Latest Version](https://github.com/eleriaqueen/pso-highres-ui-resource-pack/releases)
-
 [![GPOP8-P-2020-06-12-15-52-24.png](https://i.postimg.cc/ncRqZtzs/GPOP8-P-2020-06-12-15-52-24.png)](https://postimg.cc/w7N1cZDH)
 
 ## Production Logos
