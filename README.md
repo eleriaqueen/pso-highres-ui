@@ -7,7 +7,13 @@ Available for downlad as a _Resource Pack_ compatible with Dolphin emulator.
 
 __Does not work on real hardware__
 
-[![GPOP8-P-2020-06-12-15-52-24.png](https://i.postimg.cc/ncRqZtzs/GPOP8-P-2020-06-12-15-52-24.png)](https://postimg.cc/w7N1cZDH)
+## Showcase
+<details>
+  <summary>Image(s)</summary>
+  
+  ![Showcase A](showcase_a.png)
+  
+</details>
 
 ## Production Logos
 Sonic Team logo was taken from [Logopedia](https://www.logos.fandom.com)
